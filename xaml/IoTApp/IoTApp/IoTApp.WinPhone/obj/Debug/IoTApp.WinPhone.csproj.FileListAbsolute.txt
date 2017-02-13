@@ -1,0 +1,13 @@
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\App.g.i.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\App.g.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\MainPage.g.i.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\MainPage.g.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\App.xaml
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\MainPage.xaml
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\App.xbf
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\MainPage.xbf
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\IoTApp.WinPhone.D_.Azure.Projects.Xamarin.Xamarin.xaml.IoTApp.IoTApp.IoTApp.MainPage.xaml.g.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\IoTApp.WinPhone.D_.Azure.Projects.Xamarin.Xamarin.xaml.IoTApp.IoTApp.IoTApp.App.xaml.g.cs
+D:\Azure\Projects\Xamarin\Xamarin\xaml\IoTApp\IoTApp\IoTApp.WinPhone\obj\Debug\IoTApp.WinPhone.D_.Azure.Projects.Xamarin.Xamarin.xaml.IoTApp.IoTApp.IoTApp.DocumentDbDeviceDetailPage.xaml.g.cs
